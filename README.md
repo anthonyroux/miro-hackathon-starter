@@ -32,3 +32,4 @@ You will find below useful links to get you started.
 
 # Mentoring
 We brought an entire team of mentors for any issues you may find, feel free to drop at our virtual booth if you have any questions or just want to discuss!
+You can join our [Slack channel](https://miro-ea.readme.io/docs/introduction#:~:text=join%20our%20dedicated%20Slack%20channel) as well to discuss with us and ask questions.
