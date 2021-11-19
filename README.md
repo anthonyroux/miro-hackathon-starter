@@ -13,7 +13,7 @@ You can then explore the platform capability by reading this [introduction](http
 You will find below useful links to get you started.
 
 ## Web SDK
-- [Web SDK Get Started]()
+- [Web SDK Get Started](https://miro-ea.readme.io/docs/getting-started)
 - [Tutorial - How to test Miro Web SDK without a developer environment](https://youtu.be/9HRcKjFy93s)
 - [Web SDK Reference documentation](https://miro-ea.readme.io/docs/web-sdk-reference)
 - [Web SDK Miro starter app](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
