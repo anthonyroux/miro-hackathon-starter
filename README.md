@@ -18,7 +18,7 @@ You will find below useful links to get you started.
 - [Web SDK Reference documentation](https://miro-ea.readme.io/docs/web-sdk-reference)
 - [Web SDK Miro starter app](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
 - [Miro Web SDK example app: template builder](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
-- - [Miro Web SDK example app: convert sticky notes to shapes](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
+- [Miro Web SDK example app: convert sticky notes to shapes](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
 - [Guide - How to build a drag and drop application with the Web SDK](https://miro-ea.readme.io/docs/add-drag-and-drop-to-your-app)
 - [Guide - How to add an icon to start your Web SDK app](https://miro-ea.readme.io/docs/add-icon-click-to-your-app)
 
