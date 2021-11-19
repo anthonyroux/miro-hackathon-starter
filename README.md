@@ -14,7 +14,7 @@ You will find below useful links to get you started.
 
 ## Web SDK
 - [Web SDK Get Started]()
-- [Tutorial - How to test the Web SDK without a developer environment](https://youtu.be/9HRcKjFy93s)
+- [Tutorial - How to test Miro Web SDK without a developer environment](https://youtu.be/9HRcKjFy93s)
 - [Web SDK Reference documentation](https://miro-ea.readme.io/docs/web-sdk-reference)
 - [Web SDK Miro starter app](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
 - [Miro Web SDK example app: template builder](https://drive.google.com/file/d/1t_W_5-L93D2EfSRlcFlIHHfDDJzJ1rhb/view?usp=sharing)
@@ -24,7 +24,7 @@ You will find below useful links to get you started.
 
 ## REST API
 - [REST API Get Started]()
-- [Tutorial - How to test REST API without writing code](https://youtu.be/2x_GHcy4mcI)
+- [Tutorial - How to test Miro REST API without writing code](https://youtu.be/2x_GHcy4mcI)
 - [REST API Reference documentation](https://miro-ea.readme.io/reference/common-features)
 - [Authorization flow for REST API (OAuth2)](https://miro-ea.readme.io/reference/overview)
 
