@@ -23,7 +23,7 @@ You will find below useful links to get you started.
 
 
 ## REST API
-- [REST API Get Started]()
+- [REST API Get Started](https://miro-ea.readme.io/docs/rest-api-getting-started)
 - [Tutorial - How to test Miro REST API without writing code](https://youtu.be/2x_GHcy4mcI)
 - [REST API Reference documentation](https://miro-ea.readme.io/reference/common-features)
 - [Authorization flow for REST API (OAuth2)](https://miro-ea.readme.io/reference/overview)
